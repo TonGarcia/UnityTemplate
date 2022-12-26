@@ -1,7 +1,8 @@
 # UnityTemplate
 Unity GitHub Repo Template
 
-*Remember to copy and paste `.gitattributes` & `.gitignore` into it project sub folder.
+*Remember to copy and paste `.gitattributes` & `.gitignore` into it project sub folder.    
+**Remember to protect it new repository branchs
 
 # Rider <> Unity tips
 1. Video for more information: https://www.youtube.com/watch?v=O1oOAM-AdbE
