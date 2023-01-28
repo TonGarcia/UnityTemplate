@@ -211,7 +211,7 @@
 *.jpg           binary
 *.jpeg          binary
 *.png           binary
-*.so            binary
+*.so            binary eol=lf
 # Sources
 *.c     text diff=c
 *.cc    text diff=cpp
@@ -234,7 +234,7 @@
 *.pch   binary
 
 # Compiled Dynamic libraries
-*.so    binary
+*.so    binary eol=lf
 *.dylib binary
 *.dll   binary
 
@@ -431,7 +431,7 @@ schema.rb merge=ours diff=ruby
 # Compiled Dynamic Library
 *.dll               binary
 *.pdb               binary
-*.so                binary
+*.so                binary eol=lf
 
 # Fonts
 *.otf               binary
@@ -672,7 +672,7 @@ schema.rb merge=ours diff=ruby
 *.dll           binary
 *.ear           binary
 *.jar           binary
-*.so            binary
+*.so            binary eol=lf
 *.war           binary
 *.jks           binary
 # Handle line endings automatically for files detected as text
@@ -1071,5 +1071,5 @@ Procfile          text
 *.mn            binary
 
 #Firebase
-*.so binary
-*.bundle binary
+*.so     binary eol=lf
+*.bundle binary eol=lf

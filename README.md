@@ -18,7 +18,7 @@ Unity GitHub Repo Template
    1. `git lfs track "*.psd" "*.png" "*.jpg" "*.jpg" "*.gif" "*.mp4" "*.mp3" "*.fbx"`
    2. `git lfs track "**.psd" "**.png" "**.jpg" "**.jpg" "**.gif" "**.mp4" "**.mp3" "**.fbx" "**.dll"`
 4. Attributes tracker: `git add .gitattributes`
-
+5. If git not tracking any extension run it: `git lfs migrate import --include="*.extension"`
 
 # Unity Tips
 1. Switch graphic manipulation: **QWERTY**
