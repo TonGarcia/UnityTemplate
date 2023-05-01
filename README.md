@@ -4,6 +4,18 @@ Unity GitHub Repo Template
 *Remember to copy and paste `.gitattributes` & `.gitignore` into it project sub folder.    
 **Remember to protect it new repository branchs
 
+# Errors HotFix
+
+## IF Unity incompatible version
+1. IF on MacOS:
+   1. install LFS command globally: `brew install git-lfs`
+   2. install git lfs to repo: `git lfs install`
+   3. pull LFS files: `git lfs pull`
+1. If plastic error:
+   1. Run: `plastic --configure` (or open plasitc)
+   1. Sign In
+
+
 # Rider <> Unity tips
 1. Video for more information: https://www.youtube.com/watch?v=O1oOAM-AdbE
 2. If Rider did not tagged the project as Unity Project, so it is necessary to open the root project folder on Rider, so Rider will set it up correctly
