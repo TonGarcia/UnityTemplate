@@ -18,6 +18,12 @@
 .vs/
 .vscode/
 
+# IDEs (Intellij JetBrains, Unity...)
+.idea/
+UserSettings/Layouts/
+UserSettings/Layouts/*
+ProjectSettings/GvhProjectSettings.xml
+
 # Gradle cache directory
 .gradle/
 
@@ -49,7 +55,11 @@ sysinfo.txt
 
 # Builds
 *.apk
+*.aab
 *.unitypackage
+iwar-*/
+ios/
+iOS/
 
 # Crashlytics generated file
 crashlytics-build.properties
