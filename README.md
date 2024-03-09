@@ -4,6 +4,12 @@ Unity GitHub Repo Template
 *Remember to copy and paste `.gitattributes` & `.gitignore` into it project sub folder.    
 **Remember to protect it new repository branchs
 
+# Branches Strategy
+1. Develop: used to `programming` updates
+2. Art: used to `art experiments like scenes concepts` and others `arts` stuff
+3. Each new task should be a fork of it branch type like `develop_mobile_35` or `art_character_34`
+4. The workflow should be: `task branch` like `develop_mobile_35` merged into `develop`, once ok the develop should be merged into `main` and `art` and `develop` should be updated from that new stable `main` branch
+
 # Errors HotFix
 
 ## IF Unity incompatible version
