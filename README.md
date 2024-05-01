@@ -40,4 +40,5 @@ Unity GitHub Repo Template
 
 # Unity Tips
 1. Switch graphic manipulation: **QWERTY**
-1. Lock Tab: lock Inspector tab to be able to select many Hierarchy elements without switching it Inspector visualization
+2. Lock Tab: lock Inspector tab to be able to select many Hierarchy elements without switching it Inspector visualization
+3. Use Unity DOTs and ECS instead of GameObject instantiations that replicate same C# code at runtime: https://www.youtube.com/watch?v=18f2LeIXGo4
