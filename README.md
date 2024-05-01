@@ -18,9 +18,8 @@ Unity GitHub Repo Template
    2. install git lfs to repo: `git lfs install`
    3. pull LFS files: `git lfs pull`
 1. If plastic error:
-   1. Run: `plastic --configure` (or open plasitc)
-   1. Sign In
-
+   1. Unity > Version Control (icon) > LogIn
+   2. Unity > Project Settings > Version Control > Unity Version Control Settings > DISABLE
 
 # Rider <> Unity tips
 1. Video for more information: https://www.youtube.com/watch?v=O1oOAM-AdbE
@@ -42,3 +41,10 @@ Unity GitHub Repo Template
 1. Switch graphic manipulation: **QWERTY**
 2. Lock Tab: lock Inspector tab to be able to select many Hierarchy elements without switching it Inspector visualization
 3. Use Unity DOTs and ECS instead of GameObject instantiations that replicate same C# code at runtime: https://www.youtube.com/watch?v=18f2LeIXGo4
+
+# Unity VR
+
+## Google Cardboard
+
+1. Link to Video: https://www.youtube.com/watch?v=O9NCXV88gPI
+2. Remember to import the asset after cloning at the PackageManager
