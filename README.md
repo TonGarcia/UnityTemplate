@@ -1,5 +1,6 @@
 # UnityTemplate
-Unity GitHub Repo Template
+1. [Unity GitHub Repo Template](https://github.com/TonGarcia/UnityTemplate)
+2. [Unity GitLab GBaaS (Firebase+PlayFab+GBaas) Template Sample](https://gitlab.com/kpihunters/GBaaS/unity-gbaas-template)
 
 *Remember to copy and paste `.gitattributes` & `.gitignore` into it project sub folder.    
 **Remember to protect it new repository branchs
