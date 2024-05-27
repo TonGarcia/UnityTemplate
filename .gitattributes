@@ -68,4 +68,5 @@ ProjectSettings/*.asset text
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.ogg filter=lfs diff=lfs merge=lfs -text
 
+# unity files
 *.unity filter=lfs diff=lfs merge=lfs -text
