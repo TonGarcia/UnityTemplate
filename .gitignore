@@ -1,3 +1,4 @@
+# Unity Generated
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -20,6 +21,7 @@
 
 # IDEs (Intellij JetBrains, Unity...)
 .idea/
+.DS_Store
 UserSettings/Layouts/
 UserSettings/Layouts/*
 ProjectSettings/GvhProjectSettings.xml
